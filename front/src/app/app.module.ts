@@ -9,6 +9,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 
+import { DataTablesModule } from 'angular-datatables';
+
 @NgModule({
   declarations: [AppComponent],
   imports: [
@@ -19,6 +21,7 @@ import { HttpClientModule } from '@angular/common/http';
     ReactiveFormsModule,
     BrowserAnimationsModule,
     HttpClientModule,
+    DataTablesModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
