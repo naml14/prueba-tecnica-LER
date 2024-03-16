@@ -41,3 +41,4 @@ Base de datos
 ![image](https://github.com/naml14/prueba-tecnica-LER/assets/89644045/d0a38c40-75b9-4082-ae34-fe6cb21ecd55)
 
 5. Tabla actualizada para ordenar y filtrar
+![image](https://github.com/naml14/prueba-tecnica-LER/assets/89644045/f27bc3d2-1ba8-4b3c-9e48-37ac5e4b8bdd)
